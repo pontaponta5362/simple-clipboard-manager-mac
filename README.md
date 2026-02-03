@@ -1,5 +1,10 @@
 # Simple Clipboard Manager for macOS
 
+
+<img src="assets/image.png" alt="アプリ画面" width="200">
+
+
+
 macOSのメニューバー常駐型のシンプルなクリップボード履歴ツールです。
 **推奨：配布アプリ（zip）は Releases からダウンロードしてください。**
 
@@ -56,3 +61,7 @@ python clipboard_manager.py
 ## ライセンス
 
 MIT License
+
+## チェックサム（SHA-256）
+clipboard_manager.zip: 9e7afa15152a44ead9b507801d8fa6b6256f92e1d4491b1873c8d187f61d6228
+
