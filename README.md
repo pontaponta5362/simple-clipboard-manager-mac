@@ -11,7 +11,8 @@ macOSのメニューバー常駐型のシンプルなクリップボード履歴
 ## ダウンロード（推奨）
 
 最新版はこちら：
-[https://github.com/pontaponta5362/simple-clipboard-manager-mac/releases/latest](https://github.com/pontaponta5362/simple-clipboard-manager-mac/releases/tag/v1.0.0)
+https://github.com/pontaponta5362/simple-clipboard-manager-mac/releases/latest
+
 
 ## できること
 
